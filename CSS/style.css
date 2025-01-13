@@ -12,6 +12,7 @@
 /* Utilidades*/
 @import url("./utilidades/componentes.css");
 
+
 /* Home*/
 @import url("./home/introducao.css");
 @import url("./home/tecnologia.css");
@@ -20,6 +21,12 @@
 
 /* Bicicletas*/
 @import url("./bicicletas/bicicletas-lista.css");
+@import url("./bicicletas/bicicletas.css");
 
 /* Seguros */
 @import url("./seguros/seguros.css");
+@import url("./seguros/vantagens.css");
+@import url("./seguros/perguntas.css");
+
+/* Seguros */
+@import url("./termos/termos.css");
