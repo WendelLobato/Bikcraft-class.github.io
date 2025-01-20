@@ -15,6 +15,11 @@
   max-width: 1440px;
   margin: 0 auto;
   overflow-x: auto; /*não permite scroll horizontal (x) mesmo que quebre a exibição*/
+
+}
+
+#bicicleta .bicicletas-lista ul{
+  padding: 0px 0px 20px 0px;
 }
 
 .bicicletas-lista li{
